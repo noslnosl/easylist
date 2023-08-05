@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: nobots
-! Last modified: Sat, 14 Jul 2023 05:20:05 +0000
+! Last modified: Sat, 5 August 2023 19:07 +0000
 ! Expires: 6 days (update frequency)
 
 ! *** easylist:template_header.txt ***
@@ -9666,6 +9666,7 @@ _800x80_
 ##.BottomAdsPartial
 ##.BottomAffiliate
 ##.BoxAd
+##.block105 > table:nth-of-type(2)
 ##.BoxAdWrap
 ##.BoxRail-ad
 ##.ButtonAd
