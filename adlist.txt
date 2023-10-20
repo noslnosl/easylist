@@ -16791,6 +16791,7 @@
 ###right_rail-zergnet
 ###zergnet
 ###zergnet-wrapper
+##tr > td > div:contains(Мышшшшшь...)
 ##.ZERGNET
 ##.adLocation-zerg
 ##.component-zergnet
