@@ -15,3 +15,4 @@
 ##[onclick*="showContent('/hunt/tec.php', true)"]
 
 ||*/mmoqoimage/logo*.png$image
+||mmoquest.com/mmoqoimage/icons/zoloto.png?123.0
