@@ -15,5 +15,6 @@
 ##.container_reg_button[onclick*="register&type=3');"]
 ##.container_reg_button[onclick*="register&type=100');"]
 ##.container_reg_button[onclick*="register&type=5');"]
+##.tablehov
 
 ||*/mmoqoimage/logo*.png$image
