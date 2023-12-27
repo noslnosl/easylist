@@ -16,5 +16,6 @@
 ##.container_reg_button[onclick*="register&type=100');"]
 ##.container_reg_button[onclick*="register&type=5');"]
 ##.tablehov
+##[onclick*="showContent('/hunt/tec.php', true)"]
 
 ||*/mmoqoimage/logo*.png$image
