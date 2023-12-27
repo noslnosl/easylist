@@ -13,6 +13,7 @@
 ##.container_reg_button[onclick*="register&type=5');"]
 ##.tablehov
 ##[onclick*="showContent('/hunt/tec.php', true)"]
+##table.online_table
 
 ||*/mmoqoimage/logo*.png$image
 ||mmoquest.com/mmoqoimage/icons/zoloto.png?123.0
