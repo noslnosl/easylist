@@ -1,4 +1,4 @@
-! Title: MMO общий список
+! Title: MMO дуэли
 ! Last modified: Wed, 27 Dec 2023 13:20:05 +0000
 
 ##[href^="https://vk.com/im"]
