@@ -1,0 +1,19 @@
+! Title: MMO общий список
+! Last modified: Wed, 27 Dec 2023 13:20:05 +0000
+
+##[href^="https://vk.com/im"]
+##[onclick="showContent('/hunt/tec.php', true)"]
+##.button_alt_02[onclick*="/huntb/tur/index.php"]
+##.button_alt_02[onclick*="zem"]
+##.button_alt_02[onclick*="grab"]
+##.button_alt_02[onclick*="mob_raid.php"]
+##.button_alt_02[onclick*="clantur"]
+##.container_reg_button[onclick*="register&type=3');"]
+##.container_reg_button[onclick*="register&type=100');"]
+##.container_reg_button[onclick*="register&type=5');"]
+##.tablehov
+##[onclick*="showContent('/hunt/tec.php', true)"]
+##table.online_table
+
+||*/mmoqoimage/logo*.png$image
+||mmoquest.com/mmoqoimage/icons/zoloto.png?123.0
