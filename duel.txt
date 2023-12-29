@@ -1,9 +1,11 @@
-! Title: MMO дуэли
+! Title: MMO дуэли 
 ! Last modified: Wed, 27 Dec 2023 13:20:05 +0000
 
 ##[href^="https://vk.com/im"]
 ##[onclick="showContent('/hunt/tec.php', true)"]
 ##.button_alt_02[onclick*="/huntb/tur/index.php"]
+##.button_alt_02[onclick*="/huntb/1x1_open/search.php"]
+##.button_alt_02[onclick*="/huntb/1x1_tec/tec.php"]
 ##.button_alt_02[onclick*="zem"]
 ##.button_alt_02[onclick*="grab"]
 ##.button_alt_02[onclick*="mob_raid.php"]
